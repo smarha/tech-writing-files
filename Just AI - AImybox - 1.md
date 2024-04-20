@@ -15,7 +15,7 @@ This method will be called by the Aimybox service right after the user's speech 
 > | As a rule custom skill looks only on the `action` field of `Response` object to determine if it can handle this particular response || If Aimybox service didn't find any custom skill that can handle this response, it just executes the default action - synthesises the speech from this response and continue speech recognition if needed
 
 
-This method returns 'true' if your custom skill can handle a particular Response from the dialog API. 
+This method returns `true` if your custom skill can handle a particular Response from the dialog API. 
 As a rule custom skill looks only on the `action` field of `Response` object to determine if it can handle this particular response. [not changed]
 If Aimybox service doesn't find any custom skill that can handle this response, it will execute the default action: synthesise the speech from the response and continue speech recognition if necessary.
 
