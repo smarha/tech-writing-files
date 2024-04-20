@@ -19,6 +19,7 @@ This method returns `true` if your custom skill can handle a particular [Respons
 As a rule custom skill looks only on the `action` field of `Response` object to determine if it can handle this particular response. [not changed]
 If Aimybox service doesn't find any custom skill that can handle this response, it will execute the default action: synthesise the speech from the response and continue speech recognition if necessary.
 
+_________
 
 https://github.com/just-ai/aimybox-android-sdk/wiki/Android-UI-components
 
@@ -51,6 +52,7 @@ That's why we've simplified the voice assistant embedding process as much as pos
 That's it! When you run the provided code, you'll notice a small microphone button in the bottom right corner of the screen. Tapping on it launches the assistant's UI, which encapsulates all the nested processes related to speech recognition, NLP, UX, and speech synthesis.
 
 ______
+
 https://github.com/just-ai/aimybox-android-sdk/wiki/Core-Android-SDK
 
 > If you have to quickly embed and customise a ready to use voice assistant UI into your Android application please use UI components library.
