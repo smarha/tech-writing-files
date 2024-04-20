@@ -5,7 +5,7 @@ JsQuery - is a query language for jsonb data type, introduced in PostgreSQL 9.4.
 
 > It's primary goal is to provide an additional functionality to jsonb (currently missing in PostgreSQL), such as a simple and effective way to search in nested objects and arrays, more comparison operators with indexes support. We hope, that jsquery will be eventually a part of PostgreSQL.
 
-It's primary goal is to provide additional functionality to jsonb (currently missing in PostgreSQL), such as a simple and effective way to search in nested objects and arrays, more comparison operators with **index** support. We hope that jsquery **will eventually become** part of PostgreSQL.
+Its primary goal is to provide additional functionality to jsonb (currently missing in PostgreSQL), such as a simple and effective way to search in nested objects and arrays, more comparison operators with **index** support. We hope that jsquery **will eventually become** part of PostgreSQL.
 
 > JsQuery is realized as an extension and not available in default PostgreSQL installation. It is available from [github](https://github.com/postgrespro/jsquery) under the same license as [PostgreSQL](https://www.postgresql.org/about/licence/) and supports PostgreSQL 9.4+.
 
