@@ -1,7 +1,7 @@
 https://github.com/postgrespro/jsquery
 > JsQuery – is a language to query jsonb data type, introduced in PostgreSQL release 9.4.
 
-JsQuery - is a query language for jsonb data type, introduced in PostgreSQL 9.4.
+JsQuery is a query language for jsonb data type, introduced in PostgreSQL 9.4.
 
 > It's primary goal is to provide an additional functionality to jsonb (currently missing in PostgreSQL), such as a simple and effective way to search in nested objects and arrays, and more comparison operators with indexes support. We hope, that jsquery will be eventually a part of PostgreSQL.
 
