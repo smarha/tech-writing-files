@@ -104,7 +104,7 @@ You will need to use an Android IDE to build your app like Android Studio. Then 
 
 > All you need to do next - is to select an appropriate NLU engine and create the voice skills using it. Please refer to the documentation of selected NLU to learn how to create a voice skill.
 
-All you need to do next is select an appropriate NLU engine and create voice skills using it. Please refer to the documentation of the selected NLU engine to learn how to create a voice skill.
+All you need to do next is select an appropriate NLU engine and create voice skills with it. Please refer to the documentation of the selected NLU engine to learn how to create a voice skill.
 
 
 > To mix multiple voice skills in the single voice project you can use Aimybox Web console. It also contains a marketplace of ready to use voice skills, so it may be the easiest way to start using Aimybox.
