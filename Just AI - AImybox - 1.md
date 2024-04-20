@@ -27,7 +27,7 @@ https://github.com/just-ai/aimybox-android-sdk/wiki/Android-UI-components
 > This library contains all UI components and complete voice assistant UX implementation used by Just AI in many voice driven projects.
 
 
-UI components library enables you to easily and very quickly embed ready-to-use voice assistant into your own Android application or create an entirely new voice assistant project.
+UI components library enables you to easily and very quickly integrate ready-to-use voice assistant into your own Android application or create an entirely new voice assistant project.
 This library contains all UI components and complete voice assistant UX implementation used by Just AI in numerous voice-driven projects.
 
 
