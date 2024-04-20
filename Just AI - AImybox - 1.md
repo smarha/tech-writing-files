@@ -79,7 +79,7 @@ https://github.com/just-ai/aimybox-android-sdk/wiki/Quick-Start
 
 > Aimybox is an open source voice assistant that can be embedded into any mobile application. It includes ready to use Android SDK, iOS SDK, HTTP API and assistant UI components for both Android and iOS.
 
-Aimybox is an open-source voice assistant that can be easily embedded into any mobile application. It includes ready-to-use Android SDK, iOS SDK, HTTP API and assistant UI components for both Android and iOS.
+Aimybox is an open-source voice assistant that can be easily integrated into any mobile application. It includes ready-to-use Android SDK, iOS SDK, HTTP API and assistant UI components for both Android and iOS.
 
 
 >Thus every developer could pick some appropriate components for speech-to-text, text-to-speech and NLU, assemble an Aimybox instance and embed voice capabilities into their application with minimal effort.
