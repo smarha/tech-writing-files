@@ -67,7 +67,7 @@ Every Aimybox-powered voice assistant requires speech-to-text and text-to-speech
 
 > The user has to activate your voice assistant before speaking with it. It could be a tap on the microphone button or any other way to wake the assistant.
 
-The user must activate your voice assistant before interacting with it. This can be done by tapping the microphone button or through any other way to wake the assistant
+The user must activate the voice assistant before interacting with it. This can be done by tapping the microphone button or through any other way to wake the assistant
 
 
 > In this case the voice assistant listens for this word or phrase continuously in the background and once the user speaks it - the voice assistant starts to listen the voice command.
